@@ -29,6 +29,10 @@ _**boolean expression - legally old enough to drive example in java**_
  
  equal: ==
  
+ and: && 
+ 
+ or: ||
+ 
  secondly, the variables need to be **evaluated** through conditionals or if statements that are yes or no OR true or false 
  
     written in java as: 
