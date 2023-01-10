@@ -1,8 +1,0 @@
-# the if-then Statement 
-
-
-the _if-then_ statement is the most basic of all the control flow statements. it tells the program to execute a certian section of code only if a particular test 
-evaluates to true. 
-  
-the _if-then-else_statement provides a secondary path of execution when an if clause evaluates to false. 
-   
